@@ -17,7 +17,7 @@
 
 ## Week 1
 
-2019-03-24
+### 2019-03-24
 
 Algorithm - [LeetCode No.98 Validate Binary SearchTree Recursive java version](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Algorithm-Week1.md)
 
@@ -26,3 +26,15 @@ Review - [Validation schemes for 2-nd level models](https://github.com/gsaneryee
 Tips - [Pandas 日期标准化方法](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Tips-Week1-2019.md)
 
 Share - [闲谈叫车软件](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Share-Week1-2019.md)
+
+## Week 2
+
+### 2019-03-30
+
+Algorithm - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Algorithm-Week1.md)
+
+Review - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Reivew-Week1.md)
+
+Tips - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Tips-Week1-2019.md)
+
+Share - [线上线下连锁咖啡店闲谈](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-29-Share-Week2-2019.md)
