@@ -29,12 +29,12 @@ Share - [闲谈叫车软件](https://github.com/gsaneryeeb/ARTS/blob/master/2019
 
 ## Week 2
 
-### 2019-03-30
+### 2019-04-01
 
-Algorithm - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Algorithm-Week1.md)
+Algorithm - [No.51 N皇后问题](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-29-Algorithm-Week2-2019.md)
 
-Review - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Reivew-Week1.md)
+Review - [人工智能的未来，并不仅仅是人类](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-29-Reivew-Week2-2019.md)
 
-Tips - [](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-24-Tips-Week1-2019.md)
+Tips - [Jupyter Notebook 技巧总结](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-29-Tips-Week2-2019.md)
 
 Share - [线上线下连锁咖啡店闲谈](https://github.com/gsaneryeeb/ARTS/blob/master/2019-03-29-Share-Week2-2019.md)
