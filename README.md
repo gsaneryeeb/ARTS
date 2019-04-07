@@ -15,6 +15,18 @@
 
 4. Share：    分享一篇有观点和思考的技术文章
 
+## Week 3
+
+### 2019-04-07
+
+Algorithm - [No.37 Sudoku Solver 数独](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-07-Algorithm-Week3-2019.md)
+
+Review - [MobileNet 精讲](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-07-Reivew-Week3-2019.md)
+
+Tips - [macOS 直接读写 NTFS 格式的移动硬盘](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-07-Tips-Week3-2019.md)
+
+Share - [厦门·互联网·共享经济·传销](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-07-Share-Week3-2019.md)
+
 ## Week 2
 
 ### 2019-04-01
