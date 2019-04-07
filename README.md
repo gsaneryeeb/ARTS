@@ -15,6 +15,12 @@
 
 4. Share：    分享一篇有观点和思考的技术文章
 
+更新的文章也会陆续更新到我的公众号，欢迎大家订阅。
+
+公众号：SaneryeeInSide
+
+![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
+
 ## Week 3
 
 ### 2019-04-07
