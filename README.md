@@ -27,7 +27,7 @@
 
 Algorithm - [No.69 Sqrtx](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Algorithm-Week4-2019.md)
 
-Review - [精读论文](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Review-Week4-2019.md)
+Review - [精读论文 Convolutional Sequence to Sequence Learning](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Review-Week4-2019.md)
 
 Tips - [Python 数组切片操作](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Tips-Week4-2019.md)
 
