@@ -21,6 +21,18 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 4
+
+### 2019-04-18
+
+Algorithm - [No.69 Sqrtx](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Algorithm-Week4-2019.md)
+
+Review - [精读论文](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Review-Week4-2019.md)
+
+Tips - [Python 数组切片操作](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Tips-Week4-2019.md)
+
+Share - [版权这事儿](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-14-Share-Week4-2019.md)
+
 ## Week 3
 
 ### 2019-04-07
