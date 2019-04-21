@@ -21,6 +21,18 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 5
+
+### 2019-04-21
+
+Algorithm - [208. Implement Trie (Prefix Tree)](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-21-Algorithm-Week5-2019.md)
+
+Review - [StackNet](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-21-Review-Week5-2019.md)
+
+Tips - [常用命令](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-21-Tips-Week5-2019.md)
+
+Share - [996](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-21-Share-Week5-2019.md)
+
 ## Week 4
 
 ### 2019-04-18
