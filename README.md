@@ -21,6 +21,19 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week6 
+
+### 2019-04-28
+
+Algorithm - [212. Word Search](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Algorithm-Week6-2019.md)
+
+Review - [How to Read a Research Paper](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Review-Week6-2019.md)
+
+Tips - [Mac 高效手册](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Tips-Week6-2019.md)
+
+Share - [The Avengers & Game of Thrones](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Share-Week6-2019.md)
+
+
 ## Week 5
 
 ### 2019-04-21
