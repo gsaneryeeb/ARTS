@@ -21,7 +21,19 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
-## Week6 
+## Week7
+
+### 2019-05-05
+
+Algorithm - [191. Number of 1 Bit](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-05-Algorithm-Week7-2019.md)
+
+Review - [KazAnova's competition pipeline, part1](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-05-Review-Week7-2019.md)
+
+Tips - [数据科学常用小函数(Update)](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-05-Tips-Week7-2019.md)
+
+Share - [程序员・歧义・自尊心・自卑 - 观大牛“打架”有感。](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-05-Share-Week7-2019.md)
+
+## Week6
 
 ### 2019-04-28
 
@@ -32,7 +44,6 @@ Review - [How to Read a Research Paper](https://github.com/gsaneryeeb/ARTS/blob/
 Tips - [Mac 高效手册](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Tips-Week6-2019.md)
 
 Share - [The Avengers & Game of Thrones](https://github.com/gsaneryeeb/ARTS/blob/master/2019-04-28-Share-Week6-2019.md)
-
 
 ## Week 5
 
