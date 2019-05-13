@@ -21,6 +21,18 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week8
+
+### 2019-05-12
+
+Algorithm - [Bits](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-12-Algorithm-Week8-2019.md)
+
+Review - [KazAnova's competition pipeline, part2](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-12-Review-Week8-2019.md)
+
+Tips - [Pandas Tips and Tricks (不定期更新)](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-12-Tips-Week8-2019.md)
+
+Share - [Answer Quora: Is it possible to learn computer programming by youself?](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-12-Share-Week8-2019.md)
+
 ## Week7
 
 ### 2019-05-05
