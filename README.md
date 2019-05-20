@@ -21,6 +21,18 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week9
+
+### 2019-05-19
+
+Algorithm - [LeetCode 52. N-Queens II](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-19-Algorithm-Week9-2019.md)
+
+Review - [Stacking - How to win a data science competiton](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-19-Review-Week9-2019.md)
+
+Tips - [海量数据在神经网络中的分批训练 - Keras](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-19-Tips-Week9-2019.md)
+
+Share - [再谈 Luckin Coffee](https://github.com/gsaneryeeb/ARTS/blob/master/2019-05-19-Share-Week9-2019.md)
+
 ## Week8
 
 ### 2019-05-12
