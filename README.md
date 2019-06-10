@@ -21,6 +21,16 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 12
+
+Algorithm - [Leetcode 120. Triangle](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Algorithm-Week12-2019.md)
+
+Review - [WWDC 2019 观感](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Review-Week12-2019.md)
+
+Tips - [Python 核心技术与实战 笔记](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Tips-Week12-2019.md)
+
+Share - [个人智力水平发展的曲线](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Share-Week12-2019.md)
+
 ## Week 11
 
 Algorithm - [LeetCode 70. Climbing Stairs](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-02-Algorithm-Week11-2019.md)
