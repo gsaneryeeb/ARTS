@@ -25,7 +25,7 @@
 
 Algorithm - [Leetcode 120. Triangle](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Algorithm-Week12-2019.md)
 
-Review - [WWDC 2019 观感](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Review-Week12-2019.md)
+Review - [WWDC 2019 观感](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Reviews-Week12-2019.md)
 
 Tips - [Python 核心技术与实战 笔记](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Tips-Week12-2019.md)
 
