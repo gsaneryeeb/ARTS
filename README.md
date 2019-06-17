@@ -21,6 +21,16 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 13
+
+Algorithm - [LeetCode 152. Maximum Product Subarray](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-16-Algorithm-Week13-2019.md)
+
+Review - [PipeLine Template  0.1](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-16-Reviews-Week13-2019.md)
+
+Tips - [Note of How To Win A Data Science Competition (Updated)](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-16-Tips-Week13-2019.md)
+
+Share - [我爱的香港 1997～2019](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-16-Share-Week13-2019.md)
+
 ## Week 12
 
 Algorithm - [Leetcode 120. Triangle](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-09-Algorithm-Week12-2019.md)
