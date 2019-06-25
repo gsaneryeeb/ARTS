@@ -21,6 +21,16 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 14
+
+Algorithm - [Best TIme to Buy and Sell Stock Series](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-23-Algorithm-Week14-2019.md)
+
+Review - [Review of Deep learning by Yann LeCun, Yoshua Bengio & Geoffrey Hinton](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-23-Reviews-Week14-2019.md)
+
+Tips - [Cheat Sheet: Writing Python 2-3 compatible code](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-23-Tips-Week14-2019.md)
+
+Share - [我我们该欢迎高考移民么](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-23-Share-Week14-2019.md)
+
 ## Week 13
 
 Algorithm - [LeetCode 152. Maximum Product Subarray](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-16-Algorithm-Week13-2019.md)
