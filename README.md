@@ -21,6 +21,16 @@
 
 ![qrcode_for_gh_5571faeb0704_258.jpg](data/qrcode_for_gh_5571faeb0704_258.jpg)
 
+## Week 15
+
+Algorithm - [300. Longest Increasing Subsequence](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-30-Algorithm-Week15-2019.md)
+
+Review - [Lode's Computer Graphics Tutoria](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-30-Reviews-Week15-2019.md)
+
+Tips - [Tensorflow 2.0 Example](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-30-Tips-Week15-2019.md)
+
+Share - [去哪里 Remote](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-30-Share-Week15-2019.md)
+
 ## Week 14
 
 Algorithm - [Best TIme to Buy and Sell Stock Series](https://github.com/gsaneryeeb/ARTS/blob/master/2019-06-23-Algorithm-Week14-2019.md)
